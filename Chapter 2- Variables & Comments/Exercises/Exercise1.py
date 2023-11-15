@@ -1,0 +1,5 @@
+a=" BATH SPA UNIVERISTY RAK"
+print(a)
+
+a="CREATIVE COMPUTING GROUP 1"
+print(a)
