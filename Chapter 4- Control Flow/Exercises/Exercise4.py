@@ -19,4 +19,4 @@ elif Age < 21:
 elif Age < 66:
     print("Hey! You're an adult.")
 else:
-    print("Hey! You're an elder.")
+    print("Hey! You're an elder")
